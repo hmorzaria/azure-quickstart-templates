@@ -26,6 +26,11 @@
     "vmSize": {
       "value": "Standard_D2"
     },
+    "plan": {
+                "name": "linuxdsvm",
+                "product": "linux-data-science-vm",
+                "publisher": "microsoft-ads"
+            },
     "newOrExistingVnet": {
       "value": "new"
     },
